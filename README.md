@@ -1,15 +1,12 @@
+# Acrónimo 
 # Titulo 
-
-
-## Acrónimo 
+# Resumen publicable
 
 
 # Integrantes
   ## Foto/Avatar 
   Link a la página de cada integrante
   
-# Resumen publicable
-
 # Actividades 
 
 # Workpackages
@@ -18,7 +15,7 @@
  (misma del proyecto)
  
 # Proyectos Pilotos
-  #1
+  **1**
   #2
   #3
 
